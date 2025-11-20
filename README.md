@@ -1,5 +1,7 @@
 # ASSIGNMENT_OOP
-Learning Objectives
+
+Learning Objectives:
+
  Demonstrate inheritance across 10 related classes.
 
  Apply encapsulation using private fields and accessor methods.
