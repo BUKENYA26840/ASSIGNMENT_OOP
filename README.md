@@ -1,4 +1,11 @@
 # ASSIGNMENT_OOP
+Learning Objectives
+ Demonstrate inheritance across 10 related classes.
+ Apply encapsulation using private fields and accessor methods.
+ Use constructors for initialization with validations.
+ Accept user input using the Scanner class.
+ Implement generateBill() in the final class.
+
 PACKAGE NAME: 26840
 
   SUBPACKAGE1 NAME: QUESTION1
